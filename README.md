@@ -1,4 +1,5 @@
 # vc-front2.0
+<<<<<<< HEAD
 
 > 更新项目结构
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+更新了原库的代码结构并添加E2E测试模块和持续集成
+>>>>>>> 4e70c1027695d22cf4038d635c485677b1333211
